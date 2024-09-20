@@ -6,7 +6,6 @@ Glow Pong is a modern, visually enhanced take on the classic Pong game. This ver
 - [Features](#features)
 - [Gameplay](#gameplay)
 - [Installation](#installation)
-- [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Credits](#credits)
 
