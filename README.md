@@ -4,13 +4,11 @@ Glow Pong is a modern, visually enhanced take on the classic Pong game. This ver
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Gameplay](#gameplay)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Credits](#credits)
-- [License](#license)
 
 ## Features
 - **Glowing Players and Borders**: Players and the walls glow in their respective colors with smooth transitions.
@@ -19,9 +17,6 @@ Glow Pong is a modern, visually enhanced take on the classic Pong game. This ver
 - **Progressive Player Movement**: Player paddles accelerate progressively, giving the game a more dynamic feel.
 - **Customizable Board Dimensions**: You can modify the board dimensions and player sizes.
 - **Midline**: The classic Pong midline is drawn to mimic the original game.
-
-## Demo
-You can try out the game here: [Live Demo](#) (include a link to live demo if applicable).
 
 ## Gameplay
 * The objective is to score by making the ball pass the opponent's paddle.
@@ -46,7 +41,7 @@ You can try out the game here: [Live Demo](#) (include a link to live demo if ap
 
 3. Open the .html file via your prefered browser(like Google Chrome). 
 
-### Controls
+## Controls
 
 - Player 1: 
     * Move up - 'W'
@@ -59,7 +54,7 @@ You can try out the game here: [Live Demo](#) (include a link to live demo if ap
 - Pause/Resume:
     * Press 'Space' to pause or resume the game.
 
-### Credits 
+## Credits 
 * Developed by: Dimitar Tsonev
 * Inspiration: Classic Pong and Glow Hockey
 * Technologies used: HTML, CSS, JavaScript, Canvas API.
