@@ -24,15 +24,15 @@ Glow Pong is a modern, visually enhanced take on the classic Pong game. This ver
 You can try out the game here: [Live Demo](#) (include a link to live demo if applicable).
 
 ## Gameplay
-- The objective is to score by making the ball pass the opponent's paddle.
-- The ball speeds up slightly when it hits a paddle, making the game progressively more challenging.
-- The glowing, flashing, and pause effects make this game an exciting new version of Pong!
+* The objective is to score by making the ball pass the opponent's paddle.
+* The ball speeds up slightly when it hits a paddle, making the game progressively more challenging.
+* The glowing, flashing, and pause effects make this game an exciting new version of Pong!
 
 ## Installation
 
 ### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, etc.)
-- Basic understanding of HTML, CSS, and JavaScript.
+* A modern web browser (Chrome, Firefox, Safari, etc.)
+* Basic understanding of HTML, CSS, and JavaScript.
 
 ### Steps
 
@@ -49,17 +49,17 @@ You can try out the game here: [Live Demo](#) (include a link to live demo if ap
 ### Controls
 
 - Player 1: 
-    - Move up - 'W'
-    - Move down - 'S'
+    * Move up - 'W'
+    * Move down - 'S'
 
 - Player 2:
-    - Move up - 'ArrowUp'
-    - Move down - 'ArrowDown'
+    * Move up - 'ArrowUp'
+    * Move down - 'ArrowDown'
 
 - Pause/Resume:
-    - Press 'Space' to pause or resume the game.
+    * Press 'Space' to pause or resume the game.
 
 ### Credits 
-- Developed by: Dimitar Tsonev
-- Inspiration: Classic Pong and Glow Hockey
-- Technologies used: HTML, CSS, JavaScript, Canvas API.
+* Developed by: Dimitar Tsonev
+* Inspiration: Classic Pong and Glow Hockey
+* Technologies used: HTML, CSS, JavaScript, Canvas API.
