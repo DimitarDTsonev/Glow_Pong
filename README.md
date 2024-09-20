@@ -32,7 +32,7 @@ Glow Pong is a modern, visually enhanced take on the classic Pong game. This ver
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/glow-pong.git
+   git clone https://github.com/DimitarDTsonev/Glow_Pong.git
 
 2. Navigate into the project directory:
     ``` bash
